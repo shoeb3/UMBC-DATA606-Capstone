@@ -1,4 +1,4 @@
-# Shoeb Ahmed
+# Mohammad Shoeb Ahmed
 
 ![Headshot](headshot.jpg)
 
