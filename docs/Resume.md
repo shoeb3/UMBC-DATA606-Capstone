@@ -22,13 +22,6 @@ Graduate Data Science student with a strong foundation in machine learning, deep
 Expected Graduation: 2026 
 Grade: 3.8/4.0
 
-Relevant Coursework:
-- DATA 606 – Capstone in Data Science
-- Machine Learning
-- Big Data Analytics
-- Data Management
-- Statistical Analysis
-
 ---
 
 ## Technical Skills
@@ -47,8 +40,8 @@ Relevant Coursework:
 ## Professional Experience
 
 ### Software Engineer
-**Company Name**  
-*Dates*
+**ValueMomentum Pvt Ltd**  
+
 
 - Developed and maintained backend applications using Python and SQL
 - Designed and optimized database queries and data pipelines
