@@ -1,8 +1,8 @@
-# Project Proposal: H-1B Visa Employment Policy & Salary Forecaster
+# Predicting H-1B Visa Approval Outcomes and Salary Competitiveness Using U.S. Labor Market Data
 
 ## 1. Title and Author
 
-* **Project Title:** H-1B Visa: Employment Policy & Salary Forecaster
+* **Project Title:** Predicting H-1B Visa Approval Outcomes and Salary Competitiveness Using U.S. Labor Market Data
 * **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 * **Author Name:** MOHAMMAD SHOEB AHMED
 * **GitHub Repo:** https://github.com/shoeb3/UMBC-DATA606-Capstone/
