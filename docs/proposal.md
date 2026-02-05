@@ -33,7 +33,7 @@ The program is critical to the U.S. economy, with H-1B holders contributing appr
 * **Direct Link:** [DOL OFLC Performance Data (FY2025/2026)](https://www.dol.gov/agencies/eta/foreign-labor/performance)
 
 ### Data Characteristics
-* **Data Size:** Approximately 150 MB to 500 MB (merged quarterly files).
+* **Data Size:** Approximately 500 MB (merged quarterly files).
 * **Data Shape:** ~594,000+ rows and 50+ columns for the 2025 fiscal year.
 * **Time Period:** Fiscal Year **2025** (Q1–Q4) and **2026** (Q1).
 * **What each row represents:** A single **Labor Condition Application (LCA)** filed by a U.S. employer on behalf of a prospective foreign worker.
