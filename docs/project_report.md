@@ -388,20 +388,7 @@ A horizontal bar chart with wage labels for the top 15 states by application vol
 
 ---
 
-## 6. Assignment Completion Checklist
 
-| Requirement | Status |
-|-------------|--------|
-| EDA completed in Jupyter Notebook | Done |
-| Markdown cells describing each step | Done |
-| Data cleansing and preparation documented | Done — 8 steps |
-| Visualizations with interpretations | Done — 13 charts |
-| Section 1 updated | Done |
-| Section 2 expanded with policy context | Done |
-| Section 3 expanded with full data dictionary | Done |
-| Section 4 EDA completed | Done |
-
----
 
 *Project Report — UMBC DATA 606 Capstone, Assignment 03*
 *Author: Mohammad Shoeb Ahmed | March 2026*
