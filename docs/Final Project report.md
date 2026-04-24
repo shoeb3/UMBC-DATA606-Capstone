@@ -3,7 +3,7 @@
 **Author:** Mohammad Shoeb Ahmed
 **Course:** UMBC Data Science Master Degree Capstone, DATA 606
 **Advisor:** Dr. Chaojie (Jay) Wang
-**Semester:** Spring 2025
+**Semester:** Spring 2026
 
 **YouTube Presentation:** [Link TBD]
 **Final Presentation:** [H1B_Prediction_Presentation.pptx](H1B_Prediction_Presentation.pptx)
@@ -136,5 +136,5 @@ Training a separate model on only the 3,505 true denial cases rather than bundli
 
 Last, the most practically useful extension would be shifting the prediction target from LCA certification to lottery selection probability based on wage ratio. That is the question employers actually need answered under the 2026 rules, and it is where this kind of modeling would have the clearest real-world impact.
 
-*UMBC DATA 606 Capstone, Spring 2025*
+*UMBC DATA 606 Capstone, Spring 2026*
 *Mohammad Shoeb Ahmed*
